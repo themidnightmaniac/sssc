@@ -1,4 +1,4 @@
-#    ssc - Speed n Stuff Calculator
+#    sssc - Simple Speed n Stuff Calculator
 #    Copyright (C) 2024  Ignacio Gonsalves
 #
 #    This program is free software: you can redistribute it and/or modify
